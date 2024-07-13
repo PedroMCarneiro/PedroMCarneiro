@@ -1,4 +1,4 @@
-### Olá, eu sou Pedro Carneiro, um entusiasta da tecnologia.
+### Olá, eu sou Pedro Carneiro.
 
 - 🔭 Atualmente buscando estágio em desenvolvimento de sistemas
 - 🌱 2º semestre Bacharelado em Sistemas de Informação
