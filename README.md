@@ -1,7 +1,7 @@
 ### Olá, eu sou Pedro Carneiro.
 
 - 🔭 Atualmente buscando estágio em desenvolvimento de sistemas
-- 🌱 2º semestre Bacharelado em Sistemas de Informação
+- 🌱 3º semestre Bacharelado em Sistemas de Informação
 - 🌱 Curso de Programação FullStack
 - 😄 Pronouns: Ele/Dele
 
