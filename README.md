@@ -2,7 +2,7 @@
 
 - 🌱 3º semestre Bacharelado em Sistemas de Informação
 - 🌱 Curso de Programação FullStack
-- 😄 Pronouns: Ele/Dele
+
 
 <div align="center">
   <a href="https://github.com/PedroMCarneiro">
