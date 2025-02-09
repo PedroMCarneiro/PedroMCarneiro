@@ -1,6 +1,6 @@
 ### Olá, eu sou Pedro Carneiro.
 
--  3º semestre Bacharelado em Sistemas de Informação
+-  4º semestre Bacharelado em Sistemas de Informação
 -  Curso de Programação FullStack
 
 
